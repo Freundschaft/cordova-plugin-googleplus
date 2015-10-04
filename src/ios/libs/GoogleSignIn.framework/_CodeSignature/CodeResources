@@ -4,9 +4,13 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>GoogleSignIn.bundle/GTMOAuth2ViewTouch.nib</key>
+		<data>
+		8KDL0Jw38ScBu9uDuHjnoIoj6v0=
+		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		1nopJjlEyPCS8nnd8ka7dyxLjkE=
+		MxK+ZKVAxsJBVbVgs3BFoRwN8QQ=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -366,7 +370,7 @@
 		</dict>
 		<key>Headers/GIDAuthentication.h</key>
 		<data>
-		t1cwrtJLzzprZjsMlo9e/MJewqI=
+		Ol1Tl/YbxKbGmPgkMD8/+5r4eQI=
 		</data>
 		<key>Headers/GIDGoogleUser.h</key>
 		<data>
@@ -378,7 +382,7 @@
 		</data>
 		<key>Headers/GIDSignIn.h</key>
 		<data>
-		6Et0KEbhBRFprv5h2WxxAuXZuTg=
+		51ACQKp02bdDyyX8JF5LKewk5aU=
 		</data>
 		<key>Headers/GIDSignInButton.h</key>
 		<data>
@@ -394,14 +398,18 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		PxDp454M86lRyLFk2MIzYTIcWxQ=
+		5m1D9j1mCeTJ9qEPUc6KflMq1sM=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>GoogleSignIn.bundle/GTMOAuth2ViewTouch.nib</key>
+		<data>
+		8KDL0Jw38ScBu9uDuHjnoIoj6v0=
+		</data>
 		<key>GoogleSignIn.bundle/Info.plist</key>
 		<data>
-		1nopJjlEyPCS8nnd8ka7dyxLjkE=
+		MxK+ZKVAxsJBVbVgs3BFoRwN8QQ=
 		</data>
 		<key>GoogleSignIn.bundle/Roboto-Bold.ttf</key>
 		<data>
@@ -761,7 +769,7 @@
 		</dict>
 		<key>Headers/GIDAuthentication.h</key>
 		<data>
-		t1cwrtJLzzprZjsMlo9e/MJewqI=
+		Ol1Tl/YbxKbGmPgkMD8/+5r4eQI=
 		</data>
 		<key>Headers/GIDGoogleUser.h</key>
 		<data>
@@ -773,7 +781,7 @@
 		</data>
 		<key>Headers/GIDSignIn.h</key>
 		<data>
-		6Et0KEbhBRFprv5h2WxxAuXZuTg=
+		51ACQKp02bdDyyX8JF5LKewk5aU=
 		</data>
 		<key>Headers/GIDSignInButton.h</key>
 		<data>
@@ -789,7 +797,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		PxDp454M86lRyLFk2MIzYTIcWxQ=
+		5m1D9j1mCeTJ9qEPUc6KflMq1sM=
 		</data>
 	</dict>
 	<key>rules</key>
